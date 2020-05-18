@@ -33,7 +33,7 @@ The first part of this process is to get our data into a readable version so tha
             
 the above code outputs a file named 'event_datafile_new.csv':
 
-!(image1)[images/image_event_datafile_new.jpg]
+![image1](images/image_event_datafile_new.jpg)
 
 ## Creating Tables, ETL Pipeline, and Quality Check
 
