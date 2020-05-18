@@ -143,4 +143,4 @@ I am running this program on a jupyter lab and should work with all versions (cu
 In order to successfully run the program You must have all files downloaded.
 
 - download and install latest Apache cassandra
-- Run Pipeline.ipynb (creates required tables, processes data to database, and tests if data is inserted correctly, drops tables in the end)
+- Run pipeline.ipynb (creates required tables, processes data to database, and tests if data is inserted correctly, drops tables in the end)
